@@ -2,7 +2,7 @@
 
 [![Views](https://komarev.com/ghpvc/?username=joaomiguelcurto&label=Visualizações+do+Perfil&color=0e75b6&style=flat)](https://github.com/joaomiguelcurto)
 
-**[English Version / Versão em Inglês (README_EN.md) 🇬🇧]**
+**[English Version / Versão em Inglês 🇬🇧](README_EN.md)**
 
 ---
 
