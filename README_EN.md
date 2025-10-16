@@ -8,9 +8,11 @@
 
 ### 🙋‍♂️ About me
 
-I am a software developer from Portugal 🇵🇹, passionate about technology and focused on advancing in **Back-end** technologies and **Desktop Application Development**. My main area of focus and passion is the **C++** language, but I am always exploring new technologies and programming paradigms.
+I am a **Programming Student** from Portugal 🇵🇹, passionate about technology. As I deepen my knowledge and experience, I am focused on advancing in **Back-End** technologies and **Desktop Application Development**.
 
-I am actively seeking an opportunity to apply and develop my skills, contributing to challenging software development projects.
+My main area of focus and passion is the **C++** language, which I explore to create projects that challenge me in terms of architecture and performance. Additionally, I have foundational knowledge in **Javascript** and **PHP**, and I am always exploring new technologies and programming paradigms.
+
+I am actively seeking an opportunity to apply and develop my skills by contributing to challenging software development projects.
 
 In my free time, I enjoy watching movies 🎬, listening to music 🎧, taking nature walks 🌳, spending time with close friends ☕, and **exploring simple reverse engineering scenarios for sheer appreciation of the field** ⚙️.
 
@@ -18,7 +20,7 @@ In my free time, I enjoy watching movies 🎬, listening to music 🎧, taking n
 
 | Area | Technologies/Interests |
 | :--- | :--- |
-| **Main Language** | C++ |
+| **Core Languages** | C++, Javascript, PHP |
 | **Focus** | Back-end Development & Desktop Applications |
 | **Currently Exploring** | **Databases (SQL), Design Patterns, Front-end Fundamentals** |
 
