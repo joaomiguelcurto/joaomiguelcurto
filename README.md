@@ -8,11 +8,11 @@
 
 ### 🙋‍♂️ Sobre mim
 
-Sou um **Estudante de Programação** de Portugal 🇵🇹, apaixonado por tecnologia. Enquanto aprofundo os meus conhecimentos e experiência, estou focado em evoluir nas tecnologias **Back-end** e no desenvolvimento de **Aplicações Desktop**.
+Sou um **Estudante de Programação** de Portugal 🇵🇹, apaixonado por tecnologia. Enquanto aprofundo os meus conhecimentos e experiência, estou focado em evoluir nas tecnologias **Back-End** e no desenvolvimento de **Aplicações Desktop**.
 
 A minha principal área de foco e paixão é a linguagem **C++**, que exploro para criar projetos que me desafiem a nível de arquitetura e desempenho. Além disso, tenho bases em **Javascript** e **PHP**, e estou sempre a explorar novas tecnologias e paradigmas de programação.
 
-Busco ativamente uma oportunidade para aplicar e desenvolver os meus conhecimentos, contribuindo para projetos desafiantes no desenvolvimento de software.
+Busco ativamente uma oportunidade para aplicar e desenvolver os meus conhecimentos, ao contribuir para projetos desafiantes no desenvolvimento de software.
 
 No meu tempo livre, gosto de relaxar a ver filmes 🎬, ouvir música 🎧, fazer passeios pela natureza 🌳, conviver com amigos chegados ☕, e **explorar situações de engenharia reversa por simples apreciação à área** ⚙️.
 
@@ -34,7 +34,7 @@ Atualmente, estou a desenvolver um [Emulador CHIP-8](https://github.com/joaomigu
 
 * **Padrões de Design**: A tentar utilizar mais formatos de *design* para escrever código mais robusto e escalável.
 * **Bases de Dados (SQL)**: A desenvolver os meus conhecimentos em manipulação e *querying* de Bases de Dados relacionais.
-* **Fundamentos de Front-end**: A adquirir bases em Front-end, não para ser especialista, mas para ter uma visão mais completa do desenvolvimento de aplicações.
+* **Fundamentos de Front-End**: A adquirir bases em Front-end, não para ser especialista, mas para ter uma visão mais completa do desenvolvimento de aplicações.
 
 ### 📫 Como me contactar
 
