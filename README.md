@@ -8,7 +8,9 @@
 
 ### 🙋‍♂️ Sobre mim
 
-Sou um desenvolvedor de software de Portugal 🇵🇹, apaixonado por tecnologia e focado em evoluir nas tecnologias **Back-end** e no desenvolvimento de **Aplicações Desktop**. A minha principal área de foco e paixão é a linguagem **C++**, mas estou sempre a explorar novas tecnologias e paradigmas de programação.
+Sou um **Estudante de Programação** de Portugal 🇵🇹, apaixonado por tecnologia. Enquanto aprofundo os meus conhecimentos e experiência, estou focado em evoluir nas tecnologias **Back-end** e no desenvolvimento de **Aplicações Desktop**.
+
+A minha principal área de foco e paixão é a linguagem **C++**, que exploro para criar projetos que me desafiem a nível de arquitetura e desempenho. Além disso, tenho bases em **Javascript** e **PHP**, e estou sempre a explorar novas tecnologias e paradigmas de programação.
 
 Busco ativamente uma oportunidade para aplicar e desenvolver os meus conhecimentos, contribuindo para projetos desafiantes no desenvolvimento de software.
 
@@ -18,7 +20,7 @@ No meu tempo livre, gosto de relaxar a ver filmes 🎬, ouvir música 🎧, faze
 
 | Área | Tecnologias/Interesses |
 | :--- | :--- |
-| **Linguagem Principal** | C++ |
+| **Linguagens Base** | C++, Javascript, PHP |
 | **Foco** | Back-end Development & Aplicações Desktop |
 | **A Explorar** | **Bases de Dados (SQL), Padrões de Design, Fundamentos de Front-end** |
 
@@ -30,15 +32,9 @@ Atualmente, estou a desenvolver um [Emulador CHIP-8](https://github.com/joaomigu
 
 ### 🌱 Estou a aprender
 
-* **Padrões de Design**: A tentar utilizar mais formatos de design para escrever código mais robusto e escalável.
+* **Padrões de Design**: A tentar utilizar mais formatos de *design* para escrever código mais robusto e escalável.
 * **Bases de Dados (SQL)**: A desenvolver os meus conhecimentos em manipulação e *querying* de Bases de Dados relacionais.
 * **Fundamentos de Front-end**: A adquirir bases em Front-end, não para ser especialista, mas para ter uma visão mais completa do desenvolvimento de aplicações.
-
-<!---
-  ### 🔨 Contribuições
-  
-  *(Se contribuiu para algum projeto open-source. Caso contrário, pode remover esta secção ou indicar que está à procura de oportunidades.)*
--->
 
 ### 📫 Como me contactar
 
