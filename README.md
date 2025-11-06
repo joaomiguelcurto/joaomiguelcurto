@@ -28,7 +28,7 @@ No meu tempo livre, gosto de relaxar a ver filmes 🎬, ouvir música 🎧, faze
 
 ### 🔭 O que estou a desenvolver (ou trabalhei recentemente)
 
-Atualmente, estou a desenvolver um [Emulador CHIP-8](https://github.com/joaomiguelcurto/chip8-emulator). Este projeto permite-me aprofundar os meus conhecimentos de arquitetura, C++ de baixo nível e otimização.
+Atualmente, estou a desenvolver um [Emulador CHIP-8](https://github.com/joaomiguelcurto/chip8-emulator) (Privado de momento). Este projeto permite-me aprofundar os meus conhecimentos de arquitetura, C++ de baixo nível e otimização.
 
 ### 🌱 Estou a aprender
 
