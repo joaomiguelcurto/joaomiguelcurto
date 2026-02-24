@@ -28,7 +28,7 @@ In my free time, I enjoy watching movies 🎬, listening to music 🎧, taking n
 
 ### 🔭 I'm currently working on
 
-I am currently developing a [CHIP-8 Emulator](https://github.com/joaomiguelcurto/chip8-emulator). This project allows me to deepen my knowledge of architecture, low-level C++, and optimization.
+I am currently developing a [log-analyzer](#). This project allows me to deepen my knowledge of optimization and introducting myself to the language Go.
 
 ### 🌱 I’m currently learning
 
