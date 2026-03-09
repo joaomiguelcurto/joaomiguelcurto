@@ -20,7 +20,7 @@ No meu tempo livre, gosto de relaxar a ver filmes 🎬, ouvir música 🎧, faze
 
 | Área | Tecnologias/Interesses |
 | :--- | :--- |
-| **Linguagens Base** | C++, Javascript, PHP |
+| **Linguagens Base** | C++, Javascript, PHP, Golang |
 | **Foco** | Back-end Development & Aplicações Desktop |
 | **A Explorar** | **Bases de Dados (SQL), Padrões de Design, Fundamentos de Front-end** |
 
