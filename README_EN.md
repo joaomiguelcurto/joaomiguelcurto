@@ -20,7 +20,7 @@ In my free time, I enjoy watching movies 🎬, listening to music 🎧, taking n
 
 | Area | Technologies/Interests |
 | :--- | :--- |
-| **Core Languages** | C++, Javascript, PHP |
+| **Core Languages** | C++, Javascript, PHP, Golang |
 | **Focus** | Back-end Development & Desktop Applications |
 | **Currently Exploring** | **Databases (SQL), Design Patterns, Front-end Fundamentals** |
 
