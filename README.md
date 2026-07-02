@@ -10,7 +10,7 @@
 
 Sou um **Estudante de Programação** de Portugal 🇵🇹, apaixonado por tecnologia. Enquanto aprofundo os meus conhecimentos e experiência, estou focado em evoluir nas tecnologias **Back-End** e no desenvolvimento de **Aplicações Desktop**.
 
-A minha principal área de foco e paixão é a linguagem **C++**, que exploro para criar projetos que me desafiem a nível de arquitetura e desempenho. Além disso, tenho bases em **Javascript** e **PHP**, e estou sempre a explorar novas tecnologias e paradigmas de programação.
+A minha principal área de foco e paixão é a linguagem **Golang**, que exploro para criar projetos que me desafiem a nível de arquitetura e desempenho. Além disso, tenho bases em **Javascript** e **PHP**, e estou sempre a explorar novas tecnologias e paradigmas de programação.
 
 Busco ativamente uma oportunidade para aplicar e desenvolver os meus conhecimentos, ao contribuir para projetos desafiantes no desenvolvimento de software.
 
@@ -20,7 +20,7 @@ No meu tempo livre, gosto de relaxar a ver filmes 🎬, ouvir música 🎧, faze
 
 | Área | Tecnologias/Interesses |
 | :--- | :--- |
-| **Linguagens Base** | C++, Javascript, PHP, Golang |
+| **Linguagens Base** | Javascript, PHP, Golang |
 | **Foco** | Back-end Development & Aplicações Desktop |
 | **A Explorar** | **Bases de Dados (SQL), Padrões de Design, Fundamentos de Front-end** |
 
